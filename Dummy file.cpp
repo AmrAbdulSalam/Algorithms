@@ -11,6 +11,5 @@ int main() {
  }
 
 Function welcomeMessage () {
-	cout << "You will enjoy backend course more :) "
 	cout << "Conflict will happen here !!"
 }
