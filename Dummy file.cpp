@@ -10,6 +10,13 @@ int main() {
     //rebase attempt with a conflict is done
  }
 
+
 Function welcomeMessage () 
 	cout << "Conflict will happen here !!"
+void welcomeMessage () {
+	cout << "You will enjoy backend course more :) ";
+}
+
+bool newFunctionality () {
+    return 1 + 1 == 2;
 }
