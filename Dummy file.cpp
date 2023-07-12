@@ -10,7 +10,6 @@ int main() {
     //rebase attempt with a conflict is done
  }
 
-Function welcomeMessage () {
-	cout << "You will enjoy backend course more :) "
+Function welcomeMessage () 
 	cout << "Conflict will happen here !!"
 }
