@@ -13,3 +13,7 @@ int main() {
 void welcomeMessage () {
 	cout << "You will enjoy backend course more :) ";
 }
+
+bool newFunctionality () {
+    return 1 + 1 == 2;
+}
