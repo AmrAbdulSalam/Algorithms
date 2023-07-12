@@ -7,5 +7,5 @@ int main() {
     //gimme a conflict please
     //this gotta (second attempt) make a conflict (edit)
     //where is the conflict
-    //rebase attempt
+    //rebase attempt with a conflict is done
  }
