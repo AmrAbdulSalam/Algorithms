@@ -20,7 +20,7 @@ function bubbleSort(arr) {
 }
 
 // Example usage:
-var array = [5, 2, 8, 12, 1, 9];
+var array = [5, 1, 3, 12, 10, 9, 0];
 console.log("Original Array: " + array.join(", "));
 var sortedArray = bubbleSort(array);
 console.log("Sorted Array: " + sortedArray.join(", "));
