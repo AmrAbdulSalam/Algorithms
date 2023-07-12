@@ -11,7 +11,8 @@ int main() {
  }
 
 
-Function welcomeMessage () 
+
+Function welcomeMessage () {
 	cout << "Conflict will happen here !!"
 void welcomeMessage () {
 	cout << "You will enjoy backend course more :) ";
